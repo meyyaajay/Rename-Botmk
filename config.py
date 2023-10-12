@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "21726979")
 
 API_HASH = os.environ.get("API_HASH", "2f58b8b5306cbdd0ecb681d2ebdf08cf")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6447120598:AAHhoaMBy4N7PtizyWqw5ILVKHSGuB8HCPo") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6146531925:AAH-YoWfJPhnX-znF8u3dMsfLUHa9Bbz7Rc") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "darkstoremk3") 
 
